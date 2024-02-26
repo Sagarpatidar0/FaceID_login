@@ -1,0 +1,26 @@
+.webcam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: aqua;
+}
+
+.home{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    background: aqua;
+    color: black;
+}
+
+.home h1{
+    font-size: 40px;
+}
+
+.desc{
+    position: absolute;
+    bottom: 40px;
+    color: aqua;
+}
